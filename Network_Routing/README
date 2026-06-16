@@ -1,0 +1,8 @@
+Link State Protocol Guideline
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Using_a_priority_queue
+Utilised the psuedocode implement in python
+
+https://docs.python.org/3.5/library/heapq.html#priority-queue-implementation-notes
+Used this to add decrease priority functionality
+
+
